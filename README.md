@@ -19,3 +19,6 @@ The system follows a **Client-Server architecture**:
 - **Networking:** Sockets / TCP/IP
 - **Data Format:** JSON / Plain Text
 - **GUI:** Windows Forms
+
+## Advanced Features: 
+Implemented server-side timestamping for every transaction (UTC and Local time) to ensure auditability and transaction tracking.
